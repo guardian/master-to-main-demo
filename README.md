@@ -1,2 +1,3 @@
 # master-to-main-demo
-A repository to develop and demo automation for renaming master to main
+
+This repository is used for testing and demo-ing the [master-to-main](https://github.com/guardian/master-to-main) CLI tool
